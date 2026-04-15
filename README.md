@@ -1,1 +1,1 @@
-# odoo-modulo-prueba
+# Proyecto para desarrollar un módulo de Odoo en Docker.
